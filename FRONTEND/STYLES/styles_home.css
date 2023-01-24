@@ -1,4 +1,8 @@
 @charset "UTF-8";
+
+/* FONT DE TITULOS: FJALLA ONE*/
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
 /*!
 * Start Bootstrap - Full Width Pics v5.0.5 (https://startbootstrap.com/template/full-width-pics)
 * Copyright 2013-2022 Start Bootstrap
@@ -7939,6 +7943,8 @@ textarea.form-control-lg {
 
 .rounded-circle {
   border-radius: 50% !important;
+  height: 220px;
+  width:250px;
 }
 
 .rounded-pill {
@@ -11291,4 +11297,17 @@ textarea.form-control-lg {
   background-attachment: scroll;
   background-position: center;
   background-size: cover;
+}
+
+/*
+ AJUSTES PROPIOS AL CSS
+*/
+.specialTitle {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: rgb(79, 35, 35);
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-family: "Fjalla One", sans-serif;
 }
