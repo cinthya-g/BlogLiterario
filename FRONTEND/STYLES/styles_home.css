@@ -4477,10 +4477,10 @@ textarea.form-control-lg {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #FFE9D6;
 }
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #d9bda4;
 }
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.55);
@@ -11310,4 +11310,8 @@ textarea.form-control-lg {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-family: "Fjalla One", sans-serif;
+}
+
+.palettePurple {
+  background-color: #7B6079;
 }
