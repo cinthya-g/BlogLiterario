@@ -11315,3 +11315,22 @@ textarea.form-control-lg {
 .palettePurple {
   background-color: #7B6079;
 }
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #212121;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-family: "Fjalla One", sans-serif;
+}
+
+.postcard {
+  width: 18rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+  background-color: #C1CFC0;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 5px lightgrey;
+
+}
